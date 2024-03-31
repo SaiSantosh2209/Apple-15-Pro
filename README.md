@@ -15,16 +15,10 @@ This project is a clone of Apple's design aesthetics focusing on the Apple 15 Pr
 ## UI Screenshots
 ### Highlights
 ![image](https://github.com/SaiSantosh2209/Apple-15-Pro/assets/83724995/2aaa04b0-e573-4dab-9a16-fa0f0e4f9c01)
-
 ### 3D Model Interaction
 ![image](https://github.com/SaiSantosh2209/Apple-15-Pro/assets/83724995/bb50d2b2-7c90-46b6-a315-25526d81217e)
-
 ### Footer 
 ![image](https://github.com/SaiSantosh2209/Apple-15-Pro/assets/83724995/990c127f-05ad-4467-bbd2-a54d01a7c403)
-
-
-
-
 
 ## Clone the repository:
 

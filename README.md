@@ -21,7 +21,7 @@ This project is a clone of Apple's design aesthetics focusing on the Apple 15 Pr
 ![image](https://github.com/SaiSantosh2209/Apple-15-Pro/assets/83724995/990c127f-05ad-4467-bbd2-a54d01a7c403)
 
 ## Clone the repository:
-
+   
    ```bash
    git clone https://github.com/SaiSantosh2209/Apple-15-Pro.git
 ```
